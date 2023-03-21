@@ -1,0 +1,23 @@
+body {
+  background-color: #252323;
+}
+
+.contact-me {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.contact-me h1 {
+  color: white;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 100;
+}
+.contact-me a {
+  color: white;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 2rem;
+}/*# sourceMappingURL=style.css.map */
